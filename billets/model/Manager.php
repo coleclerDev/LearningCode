@@ -3,6 +3,11 @@
 namespace Billets\Model;
 
 
+/** Connection to the database
+ * 
+ * You must configure with your database informations
+ *
+ **/
 
 class Manager {
 
